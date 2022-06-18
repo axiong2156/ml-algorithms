@@ -1,2 +1,2 @@
 # ml-algorithms
-repo for ml algorithms written from scratch
+repo for machine learning algorithms written from scratch for learning purposes
